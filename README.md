@@ -32,3 +32,12 @@ Aule 3
     -> Configurando a rota
     -> Utilizando extencao de expressao regular no python
         - url(r'^perfis/(?P<perfil_id>\d+)$', 'perfis.views.exibir')
+
+Aula 4
+    -> Primeiros passos com persistência
+    -> Criando a classe Perfil usando django.db
+    -> comando => python manage.py makemigrations (cria modelo da base de dados)
+    -> comando => python manage.py migrate(cria o modelo apos o comando makemigrations)
+    -> Criando perfil usando django shell (python manage.py shell)
+        >>> perfil = Perfil(nome='Oswaldo', email='oswaldo@oswaldo.com', telefone='n/a', nome_empresa='Alura')
+        >>> perfil.save()
