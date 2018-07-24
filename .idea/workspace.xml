@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b72c3a82-a9aa-4b2c-ba8d-a344cd310c59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfis/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/perfis/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfis/templates/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/perfis/templates/perfil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfis/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/perfis/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/perfis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/perfis/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/perfis/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="19" column="58" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="58" />
+            <state relative-caret-position="289">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -57,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/perfis/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -98,8 +95,8 @@
         <option value="$PROJECT_DIR$/perfis/templates/index.html" />
         <option value="$PROJECT_DIR$/perfis/urls.py" />
         <option value="$PROJECT_DIR$/perfis/templates/perfil.html" />
-        <option value="$PROJECT_DIR$/perfis/views.py" />
         <option value="$PROJECT_DIR$/perfis/models.py" />
+        <option value="$PROJECT_DIR$/perfis/views.py" />
       </list>
     </option>
   </component>
@@ -330,16 +327,6 @@
     <entry file="file://$PROJECT_DIR$/perfis/admin.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/perfis/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/perfis/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -354,6 +341,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="100" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perfis/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
