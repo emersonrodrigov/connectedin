@@ -25,3 +25,10 @@ Aula 1
 
 Aula 2
     -> Pagina principal
+    -> configurando rotas
+
+Aule 3
+    -> Criar pagina de perfil
+    -> Configurando a rota
+    -> Utilizando extencao de expressao regular no python
+        - url(r'^perfis/(?P<perfil_id>\d+)$', 'perfis.views.exibir')
