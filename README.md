@@ -41,3 +41,6 @@ Aula 4
     -> Criando perfil usando django shell (python manage.py shell)
         >>> perfil = Perfil(nome='Oswaldo', email='oswaldo@oswaldo.com', telefone='n/a', nome_empresa='Alura')
         >>> perfil.save()
+
+Aula 10
+    -> Criar aplicacao para administrar usuarios
